@@ -1,0 +1,15 @@
+#EXTM3U
+## Generated with https://github.com/google/shaka-packager version v1.6.2-6b98f0d-release
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="stream_6",URI="audio-playlist.m3u8"
+#EXT-X-STREAM-INF:AUDIO="audio",CODECS="avc1.64002a,mp4a.40.29",BANDWIDTH=1693255
+1500k-playlist.m3u8
+#EXT-X-STREAM-INF:AUDIO="audio",CODECS="avc1.64002a,mp4a.40.29",BANDWIDTH=309887
+200k-playlist.m3u8
+#EXT-X-STREAM-INF:AUDIO="audio",CODECS="avc1.64002a,mp4a.40.29",BANDWIDTH=2208428
+2000k-playlist.m3u8
+#EXT-X-STREAM-INF:AUDIO="audio",CODECS="avc1.64002a,mp4a.40.29",BANDWIDTH=522432
+400k-playlist.m3u8
+#EXT-X-STREAM-INF:AUDIO="audio",CODECS="avc1.64002a,mp4a.40.29",BANDWIDTH=1156019
+1000k-playlist.m3u8
+#EXT-X-STREAM-INF:AUDIO="audio",CODECS="avc1.64002a,mp4a.40.29",BANDWIDTH=838638
+700k-playlist.m3u8
